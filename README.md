@@ -31,3 +31,5 @@ Loan is an important sector in the Bank. People need loans for their Businesses 
 
 ## 7 Dist Plot
 ![distplot graph](https://user-images.githubusercontent.com/75004804/134304227-15533c2d-b6b6-4dca-9ec0-47d40bcfc019.jpg)
+
+# Thank You
